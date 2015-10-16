@@ -17,8 +17,8 @@
 **Message^(Encrypter*Decrypter) % N = Message**  
 *which is Euler's Theorem*  
 
-Create **N** as a semiprime from **P** and **Q** and choose **Encrypter** as a coprime of **Phi(N)**.  
-We now need to figure out what **Decrypter* would be-- applying Euler's Theorem it is (**Phi(N)**+1)/**Encrypter** 
+Create **N** as the product of **P** and **Q** and choose **Encrypter** as a coprime of **Phi(N)**.  
+We now need to figure out what **Decrypter* would be-- 
 
 ### Explanation
 Given that **N** and **Encrypter** are made public, as well as any **Cypher**s produced,
