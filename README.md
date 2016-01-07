@@ -36,3 +36,6 @@ Phi is Euler's Totient function: it returns the *number* of integers, greater th
 The easy way is, *if* you know that N is a product of P and Q, then Phi(N) = (P-1)(Q-1).  
 
 The hard way is to get a computer to start doing greatest-common-denominator calculations in a brute-force trial-and-error method to count all the coprimes buried in N. For an N that is hundreds of digits long, given a decade or two, a computer can and will do it :)
+
+
+https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-inverses
